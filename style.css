@@ -1,46 +1,53 @@
 @font-face {
     font-family: america;
-    src: url(./GT-America-Compressed-Bold.woff2);
+    src: url(./assets/GT-America-Compressed-Bold.woff2);
+
 }
 
 @font-face {
     font-family: america-b;
-    src: url(./GT-America-Compressed-Black-Trial.woff2);
+        src: url(./assets/GT-America-Compressed-Black-Trial.woff2);
+
 }
 
 @font-face {
     font-family: Gilroy;
-    src: url(./Gilroy-Medium.woff2);
+    /* src: url(./Gilroy-Medium.woff2); */
+    src: url(./assets/Gilroy-Medium.woff2);
     font-weight: 500;
 }
 
 @font-face {
     font-family: Gilroy;
-    src: url(./Gilroy-Semibold.woff2);
+    /* src: url(./Gilroy-Semibold.woff2); */
+    src: url(./assets/Gilroy-Semibold.woff2);
     font-weight: 600;
 }
 
 @font-face {
     font-family: Gilroy;
-    src: url(./Gilroy-bold.woff2);
+    /* src: url(./Gilroy-bold.woff2); */
+    src: url(./assets/Gilroy-Bold.woff2);
     font-weight: 700;
 }
 
 @font-face {
     font-family: Montserrat;
-    src: url(./Montserrat-Bold.woff2);
+    /* src: url(./Montserrat-Bold.woff2); */
+    src: url(./assets/Montserrat-Bold.woff2);
     font-weight: 600;
 }
 
 @font-face {
     font-family: Montserrat;
-    src: url(./Montserrat-Bold.woff2);
+    src: url(./assets/Montserrat-Bold.woff2);
+    /* src: url(./Montserrat-Bold.woff2); */
     font-weight: 700;
 }
 
 @font-face {
     font-family: Montserrat;
-    src: url(./Montserrat-Medium.woff2);
+    src: url(./assets/Montserrat-Medium.woff2);
     font-weight: 500;
 }
 
